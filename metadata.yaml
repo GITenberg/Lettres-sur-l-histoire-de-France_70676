@@ -1,0 +1,27 @@
+_repo: Lettres-sur-l-histoire-de-France_70676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thierry, Augustin
+    gutenberg_agent_id: '55859'
+    url: http://www.gutenberg.org/2009/agents/55859
+description: ''
+gutenberg_issued: '2023-04-30'
+identifiers:
+  gutenberg: '70676'
+language: fr
+pgterms:marc904: https://archive.org/details/lettressurlhist00thie
+pgterms:marc905: 20211217122023thierry
+pgterms:marc906: '1866'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aFrance :$bGarnier frères, $c1866, pubdate 1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lettres sur l'histoire de France
+url: http://www.gutenberg.org/ebooks/70676
